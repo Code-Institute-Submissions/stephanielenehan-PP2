@@ -1,4 +1,11 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+image addresses (add screenshot of images)
+
+https://cs-courses.mines.edu/csci261/archive/Fall2016/homework/images/hw3_rpsls.jpg
+https://icon-library.com/images/spock-icon/spock-icon-4.jpg
+https://icon-library.com/images/spock-icon/spock-icon-5.jpg
+https://icon-library.com/images/rock-paper-scissors-icon/rock-paper-scissors-icon-6.jpg
+https://icon-library.com/images/spock-icon/spock-icon-3.jpg
+https://icon-library.com/images/spock-icon/spock-icon-2.jpg
 
 Welcome USER_NAME,
 
