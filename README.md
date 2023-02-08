@@ -7,7 +7,7 @@ https://icon-library.com/images/rock-paper-scissors-icon/rock-paper-scissors-ico
 https://icon-library.com/images/spock-icon/spock-icon-3.jpg
 https://icon-library.com/images/spock-icon/spock-icon-2.jpg
 
-Welcome USER_NAME,
+Welcome Stephanie Lenehan,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
