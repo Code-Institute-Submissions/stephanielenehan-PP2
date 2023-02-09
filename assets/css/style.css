@@ -1,3 +1,29 @@
 body {
-    background: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; /*aligns text and images to center of screen, decide if needed / change for desktop*/
+    background-color: cyan;
+}
+
+#computer-choice {
+    width: 240px; /*These are absolute values and need to be changed to % for responsiveness*/ 
+    height: 240px;/*These are absolute values and need to be changed to % for responsiveness*/
+    background-color: red; /*random colors for the moment to identify*/
+    margin-top: 10px; /*puts space between text of score and image*//*These are absolute values and need to be changed to % for responsiveness*/ 
+}
+
+#my-choice {
+    width: 240px; /*These are absolute values and need to be changed to % for responsiveness*/ 
+    height: 240px;/*These are absolute values and need to be changed to % for responsiveness*/
+    background-color: yellow; /*random colors for the moment to identify*/
+    margin-top: 10px; /*puts space between text of score and image*//*These are absolute values and need to be changed to % for responsiveness*/ 
+}
+
+#to-choose-from {
+    width: 240px; /*These are absolute values and need to be changed to % for responsiveness*/
+    height: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
+}
+
+#to-choose-from img {
+    width: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
+    height: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
 }
