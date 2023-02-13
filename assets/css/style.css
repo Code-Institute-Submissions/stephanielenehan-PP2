@@ -11,14 +11,14 @@ body {
     margin-top: 10px; /*puts space between text of score and image*//*These are absolute values and need to be changed to % for responsiveness*/ 
 }
 
-#my-choice {
+#my-choice { 
     width: 240px; /*These are absolute values and need to be changed to % for responsiveness*/ 
     height: 240px;/*These are absolute values and need to be changed to % for responsiveness*/
     background-color: yellow; /*random colors for the moment to identify*/
     margin-top: 10px; /*puts space between text of score and image*//*These are absolute values and need to be changed to % for responsiveness*/ 
 }
 
-#choose-from {
+#choices {
     width: 240px; /*These are absolute values and need to be changed to % for responsiveness*/
     height: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
     background-color: green; /*random colors for the moment to identify*/
@@ -26,7 +26,7 @@ body {
     margin-top: 10px; /*These are absolute values and need to be changed to % for responsiveness*/
 }
 
-#choose-from img {
+#choices img {
     width: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
     height: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
     
