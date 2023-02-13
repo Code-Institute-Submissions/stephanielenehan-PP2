@@ -18,12 +18,17 @@ body {
     margin-top: 10px; /*puts space between text of score and image*//*These are absolute values and need to be changed to % for responsiveness*/ 
 }
 
-#to-choose-from {
+#choose-from {
     width: 240px; /*These are absolute values and need to be changed to % for responsiveness*/
     height: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
+    background-color: green; /*random colors for the moment to identify*/
+    margin:0 auto; 
+    margin-top: 10px; /*These are absolute values and need to be changed to % for responsiveness*/
 }
 
-#to-choose-from img {
+#choose-from img {
     width: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
     height: 80px; /*These are absolute values and need to be changed to % for responsiveness*/
+    
 }
+
