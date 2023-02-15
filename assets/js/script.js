@@ -11,7 +11,7 @@ window.onload = function() {
 
         let choice = document.createElement("img"); 
         choice.id = choices[i]; 
-        choice.src = choices[i] + ".png"; 
+        choice.src = choices[i] + "assets/images/.png"; 
         choice.addEventListener("click", selectChoice); 
         document.getElementById("choices").append(choice);
     }
@@ -19,10 +19,10 @@ window.onload = function() {
 
 function selectChoice() {
     me = this.id;
-    document.getElementById("my-choice").src = me + ".png"; 
+    document.getElementById("my-choice").src = me + "assets/images/.png"; 
 
     computer = choices[Math.floor(Math.random() * 3 )];
-    document.getElementById("computer-choice").src = computer + ".png";
+    document.getElementById("computer-choice").src = computer + "assets/images/.png";
 
 
 
