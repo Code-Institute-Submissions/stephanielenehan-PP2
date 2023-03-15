@@ -51,7 +51,10 @@ Add png image info (removed jpeg)
 
 ~Under "Build and deployment", under "Source", select Deploy from a branch. Under “Branch” below that select main (for branch) and root (for select folder)
 
-~Click Save and a deployed site address will appear with a message: Your site is live at ……
+~Click Save and a deployed site address will appear with a message: Your site is live at ……  it should look like this 
 
-## The live link can be found here 
+![image](https://user-images.githubusercontent.com/35435182/225465134-fa0e0598-5c24-417a-aee6-d86a0a97ce71.png)
+
+
+## The live link can be found here https://stephanielenehan.github.io/PP2/
 
