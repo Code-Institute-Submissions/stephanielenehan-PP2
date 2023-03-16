@@ -1,10 +1,10 @@
 //Code based on you tube tutorial by Kenny Yip Coding. Link in ReadMe.
-var me; 
-var myScore = 0; 
-var computer;
-var computerScore = 0;
+let me; 
 
-var choices = ["rock", "paper", "scissors"]; 
+let computer;
+
+
+let choices = ["rock", "paper", "scissors"]; 
 
 window.onload = function() {
     for (let i = 0; i < 3; i++) {
@@ -12,7 +12,7 @@ window.onload = function() {
 
         let choice = document.createElement("img"); 
         choice.id = choices[i]; 
-        choice.src = choices[i] + "assets/images/.jpg 
+        choice.src = `assets/images/${choices[i]}.jpg`;
         choice.addEventListener("click", selectChoice); 
         document.getElementById("choices").append(choice);
     }
@@ -20,10 +20,10 @@ window.onload = function() {
 
 function selectChoice() {
     me = this.id;
-    document.getElementById("my-choice").src = me + "assets/images/.png"; 
+    document.getElementById("my-choice").src = `assets/images/${me}.jpg`;
 
     computer = choices[Math.floor(Math.random() * 3 )];
-    document.getElementById("computer-choice").src = computer + "assets/images/.png";
+    document.getElementById("computer-choice").src = `assets/images/${computer}.jpg`;
 
 
 
