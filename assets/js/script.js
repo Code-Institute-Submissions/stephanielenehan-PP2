@@ -1,3 +1,4 @@
+//Code based on you tube tutorial by Kenny Yip Coding. Link in ReadMe.
 var me; 
 var myScore = 0; 
 var computer;
