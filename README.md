@@ -15,27 +15,40 @@ The future development of this game will be Rock Paper Scissors Lizard Spock giv
 
 ## Am I Responsive
 
-Update am I responsive screen shots
-![image](https://user-images.githubusercontent.com/35435182/225466447-8babfa83-5989-4ef8-8421-067ac061930b.png)
+
+
+![image](https://user-images.githubusercontent.com/35435182/225601709-cfda1be6-29fe-4652-97de-1f6943ace09a.png)
 
 
 # Features
 
-## Navigation
+Featured at the top of the page is the title of the game, top and center of the page. 
 
-Featured at the top of the page, the navigation shows the title of the game top and center of the page. 
+Underneath the play area is the rules listed. 
 
-The other navigation links are center below the title of the game: How to play (Rules) and PLAY (reset the game to start over) with subtext of press play to start / press play to play again. 
+The font compliments the icons and is in keeping with the fun attitude of the game. 
 
-The navigation is in a font that compliments the icons and is in keeping with the fun attitude of the game. 
+The bright colors used are in keeping with the fun attitude of the game whilst providing good contrast between the font and backgrounds. 
 
-The bright colors used in the navigation are in keeping with the fun attitude of the game whilst providing good contrast between the font and backgrounds. 
+Image addresses in credits. 
 
+![image](https://user-images.githubusercontent.com/35435182/225600437-9f76f6ce-f63a-4360-ad3a-ff7c4f71f804.png)
 
-image addresses in credits. (add screenshot of images)
+![image](https://user-images.githubusercontent.com/35435182/225600475-d8fc398e-2afc-4080-85bc-072e80f9d2ee.png)
 
+![image](https://user-images.githubusercontent.com/35435182/225600545-315e5227-1b8c-4971-875e-4159e44f4a96.png)
+
+![image](https://user-images.githubusercontent.com/35435182/225600635-931b3d32-b2b7-49e1-991a-47df12f754f0.png)
+
+![image](https://user-images.githubusercontent.com/35435182/225600707-d9c93fd2-9876-40a4-b99b-198c73fa6b5b.png)
+
+The deployed site functions reflecting the random functionality of a computer or opponent choice. This randomness being reflected in the fact that sometime the computer will choose the same hand twice as someone might do in real life. 
 
 ## Bugs
+
+I had issues in getting the images to show and resolved the bug with correction of code 
+
+The incorrect code was: 
 
 ![image](https://user-images.githubusercontent.com/35435182/225475927-298716f8-4480-4994-b47b-356204b038d5.png)
 
@@ -58,6 +71,10 @@ Click Save and a deployed site address will appear with a message: Your site is 
 
 ![image](https://user-images.githubusercontent.com/35435182/225465134-fa0e0598-5c24-417a-aee6-d86a0a97ce71.png)
 
+## Lighthouse
+![image](https://user-images.githubusercontent.com/35435182/225605005-a4c8cd94-f4d6-4683-8ddf-744e7a953523.png)
+
+
 
 ### The live link can be found here https://stephanielenehan.github.io/PP2/
 
@@ -67,7 +84,7 @@ Click Save and a deployed site address will appear with a message: Your site is 
 
 ### I based the code that appears thus far in my project off of a you tube tutorial by Kenny Yip Coding. 
     It can be found here https://youtu.be/fIBOydve2f8
-    It has some old out of date practices like var that I need to update. 
+    It has some old out of date practices that need to updated. 
    
 ### Media 
 
