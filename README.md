@@ -35,6 +35,11 @@ The bright colors used in the navigation are in keeping with the fun attitude of
 image addresses in credits. (add screenshot of images)
 
 
+## Bugs
+
+![image](https://user-images.githubusercontent.com/35435182/225475927-298716f8-4480-4994-b47b-356204b038d5.png)
+
+
 ## Deployment
 
 The site was deployed to Github pages (github.com) The steps to deploy are as follows: 
