@@ -12,7 +12,7 @@ window.onload = function() {
 
         let choice = document.createElement("img"); 
         choice.id = choices[i]; 
-        choice.src = choices[i] + "assets/images/.png"; 
+        choice.src = choices[i] + "assets/images/.jpg 
         choice.addEventListener("click", selectChoice); 
         document.getElementById("choices").append(choice);
     }
