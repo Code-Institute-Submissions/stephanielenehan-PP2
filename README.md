@@ -97,4 +97,12 @@ Paper https://icon-library.com/images/spock-icon/spock-icon-3.jpg
 Scissors https://icon-library.com/images/spock-icon/spock-icon-5.jpg
 
 
+05/03/24
+The Big Bang Theory PNG Image
+https://www.pngaaa.com/download/5002381
 
+05/03/24
+TBBT icon source
+https://www.iconfinder.com/icons/3151554/big_bang_theory_icon
+converted to favicon with 
+https://favicon.io/favicon-converter/
