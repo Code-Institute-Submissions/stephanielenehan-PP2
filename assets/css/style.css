@@ -1,53 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 
-
-
+*{
+    padding: 0;
+    margin: 0;
+}
 
 body {
     background-color: black;
     color: red;
+    min-height: 100vh;
+    flex: 1 0 auto;
 }
 
-.title-div {
-    padding: 1%;
-    background-color: red;
-    color: black;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    outline: auto;
-    outline-color: aliceblue;
-    outline-style: dotted;
-}
-    
-img {
-    max-height: 50%;
-    max-width: 50%;
-}
-
-/*Atom image at top of page which acts as game logo*/
-#header-icon {
+.icon-title-area {
     display: flex;
-    justify-content: center;
-    align-items:center;
+    flex-direction: column;
     padding: 1%;
+    margin: 1%;
+    outline: auto;
+    outline-color: aliceblue;
+    outline-style: dotted;
+
+
+}
+
+.fa-bars {
+    color: chartreuse;
+    display: flex;
+    flex-direction: column;
     outline: auto;
     outline-color: aliceblue;
     outline-style: dotted;
 }
+
 
 .welcome-message {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     font-family: 'orbitron', sans-serif;
     letter-spacing:0.4em;
-    padding: 1%;
     outline: auto;
     outline-color: aliceblue;
     outline-style: dotted;
-    
 }
 
 footer {
