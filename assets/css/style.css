@@ -31,19 +31,14 @@ body {
     font-family: 'orbitron', sans-serif;
 }
 
-#icon-title-area {
-    padding: 1%;
+.title-words{
+    font-size:small;
+    padding: 5%;
+    letter-spacing:0.4em;
 }
 
-/*.icon-title-area {
-    display: flex;
-    padding: 1%;
-    margin: 1%;
-}*/
-
 .fa-bars {
-    display: flex;
-    padding: right 2px; /*padding not taking effect*/
+    padding: 5%;
 }
 
 
@@ -51,7 +46,7 @@ body {
     display: flex;
     flex-direction: column;
     
-    letter-spacing:0.4em;
+    
     outline: auto;
     outline-color: aliceblue;
     outline-style: dotted;
