@@ -31,6 +31,10 @@ body {
     font-family: 'orbitron', sans-serif;
 }
 
+#icon-title-area {
+    padding: 1%;
+}
+
 /*.icon-title-area {
     display: flex;
     padding: 1%;
