@@ -6,43 +6,52 @@
 }
 
 body {
-    background-color: black;
+    background-color: blue; 
     color: red;
     min-height: 100vh;
     flex: 1 0 auto;
 }
 
-.icon-title-area {
+.game-play-area {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    right: 5%;
+    bottom: 5%;
+    min-height: 90vh;
+    flex: 1 0 auto;
+    outline: 0.5rem;
+    outline-color: red;
+    outline-style: dotted;
     display: flex;
     flex-direction: column;
+    box-sizing: border-box;
+    background-color: black;
+    color:whitesmoke; 
+    font-family: 'orbitron', sans-serif;
+}
+
+/*.icon-title-area {
+    display: flex;
     padding: 1%;
     margin: 1%;
-    outline: auto;
-    outline-color: aliceblue;
-    outline-style: dotted;
-
-
-}
+}*/
 
 .fa-bars {
-    color: chartreuse;
     display: flex;
-    flex-direction: column;
-    outline: auto;
-    outline-color: aliceblue;
-    outline-style: dotted;
+    padding: right 2px; /*padding not taking effect*/
 }
 
 
-.welcome-message {
+/*.welcome-message {
     display: flex;
     flex-direction: column;
-    font-family: 'orbitron', sans-serif;
+    
     letter-spacing:0.4em;
     outline: auto;
     outline-color: aliceblue;
     outline-style: dotted;
-}
+}*/
 
 footer {
     display: flex;
@@ -52,11 +61,8 @@ footer {
     font-family: 'orbitron', sans-serif;
     letter-spacing:0.1em;
     padding: 1%;
-    outline: auto;
-    outline-color: aliceblue;
-    outline-style: dotted;
-    background-color: red;
-    color: black;
+    background-color:inherit;
+    color: inherit;
 }
 
 
