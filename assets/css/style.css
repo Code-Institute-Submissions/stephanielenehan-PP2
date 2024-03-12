@@ -35,43 +35,46 @@ header {
     color: aqua;
     width: 100%;
     display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    
+    
 }
 
 #title-words{
-    font-size:small;
+    font-size:x-small;
     padding: 5%;
     letter-spacing:0.4em;
 }
 
 #atom-header-icon {
     padding: 5%;
+    font-size: xxx-large;
 }
 
 .player-choice-area {
-    
+    display: flex;
+    padding: 5%;
+    flex-direction: row;
+    align-content: space-between;
 }
 
 #rock-icon {
-
+    padding: 5%;
 }
 
 #paper-icon {
-
+    padding: 5%;
 }
 
 #scissors-icon {
-
+    padding: 5%;
 }
 
 #lizard-icon {
-
+    padding: 5%;
 }
 
 #spock-icon {
-
-    
+    padding: 5%;
 }
 
 footer {
