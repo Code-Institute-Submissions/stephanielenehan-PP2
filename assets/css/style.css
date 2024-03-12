@@ -52,28 +52,29 @@ header {
 
 .player-choice-area {
     display: flex;
-    padding: 5%;
     flex-direction: row;
-    align-content: space-between;
+    justify-content: space-between;
+    padding: 5%;
+    
 }
 
-#rock-icon {
+.rock-icon {
     padding: 5%;
 }
 
-#paper-icon {
+.paper-icon {
     padding: 5%;
 }
 
-#scissors-icon {
+.scissors-icon {
     padding: 5%;
 }
 
-#lizard-icon {
+.lizard-icon {
     padding: 5%;
 }
 
-#spock-icon {
+.spock-icon {
     padding: 5%;
 }
 
