@@ -49,25 +49,16 @@ header {
     padding: 5%;
 }
 
-
-/*.welcome-message {
-    display: flex;
-    flex-direction: column;
+#player-choice-area {
     
-    
-    outline: auto;
-    outline-color: aliceblue;
-    outline-style: dotted;
-}*/
+}
 
 footer {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     font-family: 'orbitron', sans-serif;
     letter-spacing:0.1em;
-    padding: 1%;
+    padding: 5%;
     background-color:black;
     color: aqua;
 }
