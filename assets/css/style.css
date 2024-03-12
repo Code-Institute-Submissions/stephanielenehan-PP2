@@ -31,13 +31,20 @@ body {
     font-family: 'orbitron', sans-serif;
 }
 
-.title-words{
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+#title-words{
     font-size:small;
     padding: 5%;
     letter-spacing:0.4em;
 }
 
-.fa-bars {
+#atom {
     padding: 5%;
 }
 
