@@ -45,11 +45,32 @@ header {
     letter-spacing:0.4em;
 }
 
-#atom {
+#atom-header-icon {
     padding: 5%;
 }
 
-#player-choice-area {
+.player-choice-area {
+    
+}
+
+#rock-icon {
+
+}
+
+#paper-icon {
+
+}
+
+#scissors-icon {
+
+}
+
+#lizard-icon {
+
+}
+
+#spock-icon {
+
     
 }
 
