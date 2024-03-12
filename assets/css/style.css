@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: blue; 
+    background-color: white;
     color: red;
     min-height: 100vh;
     flex: 1 0 auto;
@@ -20,18 +20,19 @@ body {
     bottom: 5%;
     min-height: 90vh;
     flex: 1 0 auto;
-    outline: 0.5rem;
+    /*outline: 0.5rem;
     outline-color: red;
-    outline-style: dotted;
+    outline-style: dotted;*/
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
     background-color: black;
-    color:whitesmoke; 
+    color:aqua;
     font-family: 'orbitron', sans-serif;
 }
 
 header {
+    color: aqua;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -67,8 +68,8 @@ footer {
     font-family: 'orbitron', sans-serif;
     letter-spacing:0.1em;
     padding: 1%;
-    background-color:inherit;
-    color: inherit;
+    background-color:black;
+    color: aqua;
 }
 
 
