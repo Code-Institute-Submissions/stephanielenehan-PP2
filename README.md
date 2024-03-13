@@ -1,26 +1,24 @@
 
-## Rock Paper Scissors
+## Rock Paper Scissors Lizard Spock
 
-The Rock Paper Scissors website is an online game for both adults and children where they can play the computer in a chance game. 
+The Rock Paper Scissors Lizard Spock website is an online game for both adults and children where they can play the computer in a chance game. 
 
 Users of this website game are able to play online via desktop, tablet or mobile device by clicking or tapping on simple graphic icons. 
 
 The game provides responsive actions to the players choices in a random fashion so as to mimic the unknown choice of an opponent when playing the game. 
 
-Players are given 3 choices to choose from with each having a possible outcome of win, lose or draw. 
+Players are given 5 choices to choose from with each having a possible outcome of win, lose or draw. 
 
 This game is targeted at adults and children given that it has simple unwaivering rules. 
 
-The future development of this game will be Rock Paper Scissors Lizard Spock giving players 5 choices to choose from. 
-
-## Am I Responsive
-
-
+## Am I Responsive (old site based off old out of date you tube tutorial)
 
 ![image](https://user-images.githubusercontent.com/35435182/225601709-cfda1be6-29fe-4652-97de-1f6943ace09a.png)
 
+## Am I Responsive (new site under development from scratch)
 
-# Features
+
+# Features (old site based off old out of date you tube tutorial)
 
 Featured at the top of the page is the title of the game, top and center of the page. 
 
@@ -80,13 +78,16 @@ Click Save and a deployed site address will appear with a message: Your site is 
 
 ## Credits
 
-### Content
+### Content (old site based off old out of date you tube tutorial)
 
-### I based the code that appears thus far in my project off of a you tube tutorial by Kenny Yip Coding. 
+### I based the code that appears commented out in my project off of a you tube tutorial by Kenny Yip Coding. 
     It can be found here https://youtu.be/fIBOydve2f8
     It has some old out of date practices that need to updated. 
+
+### Content (new site under development from scratch)     
+I have endeavoured to write as much of my own code as possible using the Love Maths Walkthrough as my general guide. 
    
-### Media 
+### Media (old site based off old out of date you tube tutorial)
 
 ### I used images for rock, paper and scissors from the following sources: 
 
@@ -95,6 +96,14 @@ Rock https://icon-library.com/images/spock-icon/spock-icon-4.jpg
 Paper https://icon-library.com/images/spock-icon/spock-icon-3.jpg
 
 Scissors https://icon-library.com/images/spock-icon/spock-icon-5.jpg
+
+### Media (new site under development from scratch)
+
+Old jpeg images for the Rock, Paper, Scissors choices have been replaced with font awesome icons instead for Rock, Paper, Scissors, Lizard and Spock.
+
+This I found a cleaner and more accurate way to progress as I can make the icons into buttoms and effectively target with CSS classes / ids and with the future development of the JavaScript. 
+
+I have left the old jpeg images in my images folder for the moment until I decide whether I will reuse them at all in any other way elsewhere in the project or delete them altogether. 
 
 
 05/03/24
