@@ -1,3 +1,8 @@
+To whom it may concern, I wish to respectfully acknowledge that whilst this submission is technically a resubmission, that it is wholly incomplete to date. I have effectively started over on the project and have based my new code on my own learnings and using Love Maths walkthrough as a guide. I last attempted the course prior to ADHD diagnosis and treatment over the last year during which time I did not code at all. 
+
+Whilst I am disappointed not to have completed this project in time and will have to work hard to complete it now before final grading, I am nonetheless pleased with the development process so far and look forward to completing the project. I have chosen to leave the original code of my first attempt at the project commented out below the code I am developing now. I appreciate that this might be fine for my own development that it should not be present in a final submission. 
+
+
 
 ## Rock Paper Scissors Lizard Spock
 
@@ -17,6 +22,7 @@ This game is targeted at adults and children given that it has simple unwaiverin
 
 ## Am I Responsive (new site under development from scratch)
 
+![image](https://github.com/stephanielenehan/PP2/assets/35435182/a33ce0cb-5e98-48cf-9a25-c1697b11a0ea)
 
 # Features (old site based off old out of date you tube tutorial)
 
@@ -42,7 +48,8 @@ Image addresses in credits.
 
 The deployed site functions reflecting the random functionality of a computer or opponent choice. This randomness being reflected in the fact that sometime the computer will choose the same hand twice as someone might do in real life. 
 
-## Bugs
+## Bugs (old site based off old out of date you tube tutorial)
+
 
 I had issues in getting the images to show and resolved the bug with correction of code 
 
@@ -69,12 +76,21 @@ Click Save and a deployed site address will appear with a message: Your site is 
 
 ![image](https://user-images.githubusercontent.com/35435182/225465134-fa0e0598-5c24-417a-aee6-d86a0a97ce71.png)
 
-## Lighthouse
+## Lighthouse  (old site based off old out of date you tube tutorial)
 ![image](https://user-images.githubusercontent.com/35435182/225605005-a4c8cd94-f4d6-4683-8ddf-744e7a953523.png)
 
+## Lighthouse (new site under development from scratch)  
+
+Accessibility whilst under development was scoring highly across all criteria under I recently added the buttons to HTML which don't have an accessible name yet. 
+
+![image](https://github.com/stephanielenehan/PP2/assets/35435182/619d5868-2d15-4728-8b08-738feb8b7eb3)
 
 
 ### The live link can be found here https://stephanielenehan.github.io/PP2/
+
+![image](https://github.com/stephanielenehan/PP2/assets/35435182/ae69b694-3ee2-43cb-961a-0bab3b68d70d)
+
+![image](https://github.com/stephanielenehan/PP2/assets/35435182/eb9fdc73-b7ab-4302-8f31-e626d92a997c)
 
 ## Credits
 
